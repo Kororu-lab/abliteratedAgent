@@ -1,0 +1,14 @@
+# pdf files
+*.pdf
+
+# image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+
+# feedback files
+/feedback/*.md
