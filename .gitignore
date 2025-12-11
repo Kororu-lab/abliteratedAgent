@@ -11,4 +11,14 @@
 *.svg
 
 # feedback files
-/feedback/*.md
+/feedback
+/otrgit
+
+# implementation plans
+ImplementationPlans/
+exp_results/
+feedback/
+*.md
+!README.md
+!readme.md
+src/__pycache__/
